@@ -556,7 +556,7 @@ def bruteforcer():
 		print	
 		user = raw_input("Please enter USER name: ")
 		print	
-		passwordfile = raw_input("Please enter your Password text File name (avilable:password.txt,rockyou.txt) : ")
+		passwordfile = raw_input("Please enter your Password text File name (Example:password.txt,rockyou.txt) : ")
 		print
 	    
 		print '[+] Using anonymous credentials for ' + target
